@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Insan Insights 👋</h1>
+<h1 align="center">Hi, It's Insan Insights 👋</h1>
 
 <p align="center">
   <strong>Exploring ideas, design, branding & digital growth with creative thinking.</strong>
